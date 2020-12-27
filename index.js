@@ -118,4 +118,3 @@ client.on('message', message => {
 
 client.login(token)
 setTimeout(() => process.exit(), 120 * 1000)
-// talk in the repl.it chat ok
